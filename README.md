@@ -15,6 +15,7 @@ I’m currently working on Youtube Channel.
 ### What I'm focusing on
 
 Currently improving my skills to land a job in Tech Community.
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleverdeepak&show_icons=true)
 
 <!--
 **Cleverdeepak/Cleverdeepak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
