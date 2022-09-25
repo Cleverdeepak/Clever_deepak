@@ -14,7 +14,7 @@ I’m currently working on Youtube Channel.
 
 ### What I'm focusing on 👨‍💻
 
-I'm always trying to learn and grow new things.
+I'm always trying to learn and grow new things.<br/>
 Currently improving my skills to land a job in Tech Community.
 
 ### Feel free to connect with me here
